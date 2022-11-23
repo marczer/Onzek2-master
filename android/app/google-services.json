@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230893184376",
+    "firebase_url": "https://onzek-test-default-rtdb.firebaseio.com",
+    "project_id": "onzek-test",
+    "storage_bucket": "onzek-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230893184376:android:e006b3735a35952539548d",
+        "android_client_info": {
+          "package_name": "com.example.onzek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230893184376-26t4p4duch9a34ue1udvauhoespinad1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onzek",
+            "certificate_hash": "74c2fad9f44c66be29a2c872965d415366f0abf3"
+          }
+        },
+        {
+          "client_id": "230893184376-3s1fidchknn4fta9iurqq7lsev64c1br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfHaR9DbPmM9tKc9NT784zDGQe5JQk7Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230893184376-3s1fidchknn4fta9iurqq7lsev64c1br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
